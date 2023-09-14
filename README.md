@@ -1,3 +1,3 @@
 # Skin-Cancer
 
-codes to detect skin cancer
+classification of skin cancer with cnn models
